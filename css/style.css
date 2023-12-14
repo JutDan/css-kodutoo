@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(173, 159, 173);
+}
+
+.pealkiri {
+    border: 1px solid purple;
+    width: 55%;
+    margin: 0 auto;
+    text-align: center; color: blue;
+    font-family: 'Pacifico', cursive;
+}
+
+.koostised {
+    border: 1px solid purple;
+    width: 55%;
+    margin: 0 auto;
+    text-align: center; color: blue;
+    font-family: 'Pacifico', cursive;
+    
+}
+
+.tainas {
+    border: 1px solid purple;
+    width: 55%;
+    margin: 0 auto;
+    text-align: center; color: blue;
+    font-family: 'Pacifico', cursive;
+}
+
+.tabel-koostised {
+    border: 1px solid purple;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+.tabel-kreem {
+    border: 1px solid purple;
+    margin: 0 auto;
+    text-align: center; 
+    font-family: 'Pacifico', cursive;
+}
